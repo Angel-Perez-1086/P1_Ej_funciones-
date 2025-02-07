@@ -14,6 +14,6 @@ void main(){
     print('Angel Perez Barron Mat: 22308051281086');
     print('Llamando a la funcion saludar');
     saludar();
-    print('Llamar a la funcion escribeNombre');
+    print('Llamando a la funcion escribeNombre');
     escribeNombre();
 }
