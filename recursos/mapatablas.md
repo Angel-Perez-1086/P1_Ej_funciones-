@@ -4,4 +4,4 @@ crear map <string, dynamic>  cliente  con los siguientes key, id_cliente, nombre
 
 crear map <string, dynamic>  ventas con los siguientes key, id_venta, total, tipo_pago, id_cliente, fecha_venta, id_producto, impuestos, descuento, cambio y mostrar los datos con un foreach lenguaje dart.
 
-![alt text](image-7.png)
+![alt text](image-8.png)
